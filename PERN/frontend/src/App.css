@@ -1,0 +1,11 @@
+.module{
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+}
+
+.home-page{
+  border: 1px solid black;
+  height: 80vh;
+}
